@@ -1,0 +1,10 @@
+.searchInfo {
+    width: 50%;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.searchInfo p {
+    margin: 0px;
+}
